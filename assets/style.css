@@ -1,23 +1,38 @@
-main{
+main {
   margin: 8px;
+}
+.navbar-brand {
+  color: white;
+}
+
+#navbarNav {
+  justify-content: end;
+}
+
+.nav-link {
+  color: white;
+}
+.card-header{
+  color: white;
 }
 h1 {
   display: flex;
-  color:violet;
+  color: #9042f5;
   justify-content: center;
 }
-section{
+section {
   display: flex;
   flex-direction: row;
 }
-.card{
+.card {
   width: 25rem;
   margin: 15px;
   height: 50%;
-  background-color: violet;
-  margin-left:100px ;
+  background-color: #9042f5;
+  margin-left: 100px;
   margin-top: 50px;
 }
-.container-fluid{
-  background-color: violet;
+
+.container-fluid {
+  background-color: #9042f5;
 }

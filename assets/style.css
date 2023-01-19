@@ -1,4 +1,23 @@
-header{
-  color:red;
-  background-color: paleturquoise;
+main{
+  margin: 8px;
+}
+h1 {
+  display: flex;
+  color:violet;
+  justify-content: center;
+}
+section{
+  display: flex;
+  flex-direction: row;
+}
+.card{
+  width: 25rem;
+  margin: 15px;
+  height: 50%;
+  background-color: violet;
+  margin-left:100px ;
+  margin-top: 50px;
+}
+.container-fluid{
+  background-color: violet;
 }
